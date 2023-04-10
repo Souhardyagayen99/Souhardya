@@ -1,2 +1,2 @@
 This website is live hosted on GitHub
-https://souhardyagayen99.github.io/Souhardya.github.io/
+https://souhardyagayen99.github.io/Souhardya/
