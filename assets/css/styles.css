@@ -400,6 +400,9 @@ img{
 .skills__js{
   width: 25%;
 }
+.skills__nodejs{
+  width: 25%;
+}
 .skills__cpp{
   width: 85%;
 }
